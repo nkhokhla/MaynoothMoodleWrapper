@@ -6,7 +6,7 @@
 
 # MaynoothMoodleWrapper
 <div>
-<a href='https://github.com/wolfwarrior666/THUMoodleWrapper/releases/latest'><img alt='Get it on Github' src='./docs/assets/badges/badge_github.png' height='80px'/></a>
+<a href='https://github.com/nkhokhla/MaynoothMoodleWrapper/releases/tag/1.0.0'><img alt='Get it on Github' src='./docs/assets/badges/badge_github.png' height='80px'/></a>
 </div>
 
 ## About the Project
