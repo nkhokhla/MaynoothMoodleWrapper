@@ -22,4 +22,4 @@ If you click on a [moodle.maynoothuniversity.ie](https://moodle.maynoothuniversi
 
 - Android 7.0 or higher
 - Official Moodle App installed
-- THUMoodleWrapper installed
+- MaynoothMoodleWrapper installed
